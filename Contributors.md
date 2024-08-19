@@ -4279,6 +4279,7 @@ Parthiv Saikia
 - [Sulejman Hoxha](https://github.com/sulejmanhoxha)
 - [João Gonçalves] (https://github.com/joao-goncalves17)
 - [Skin Spectra] (https://github.com/mqry)
+- [Luka] (https://github.com/ggkkaa) *Can't wait to learn C++, C, and assembly*
 - [iPig](https://github.com/ipigtw)
 - [Kornel Hergert](https://github.com/kornel54)
 - [Gypra](https://github.com/42plat0)
